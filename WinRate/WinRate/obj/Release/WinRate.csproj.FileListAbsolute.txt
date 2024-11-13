@@ -1,0 +1,12 @@
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Release\WinRate.exe.config
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Release\WinRate.exe
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Release\WinRate.pdb
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Release\WinRate.MainForm.resources
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Release\WinRate.Properties.Resources.resources
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Release\WinRate.csproj.GenerateResource.Cache
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Release\WinRate.exe
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Release\WinRate.pdb
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Release\WinRate.csprojResolveAssemblyReference.cache
+C:\Users\eevay_lu\Desktop\GitData\TestData\PTCG-Pocket-Win-Rate-Tools\WinRate\WinRate\bin\Release\WinRate.exe.config
+C:\Users\eevay_lu\Desktop\GitData\TestData\PTCG-Pocket-Win-Rate-Tools\WinRate\WinRate\obj\Release\WinRate.exe
+C:\Users\eevay_lu\Desktop\GitData\TestData\PTCG-Pocket-Win-Rate-Tools\WinRate\WinRate\obj\Release\WinRate.pdb

@@ -1,0 +1,11 @@
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Debug\WinRate.exe.config
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Debug\WinRate.exe
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Debug\WinRate.pdb
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Debug\log4net.dll
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\bin\Debug\log4net.xml
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Debug\WinRate.csprojResolveAssemblyReference.cache
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Debug\WinRate.MainForm.resources
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Debug\WinRate.Properties.Resources.resources
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Debug\WinRate.csproj.GenerateResource.Cache
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Debug\WinRate.exe
+C:\Users\eevay_lu\Desktop\GitData\TestData\WinRate\WinRate\obj\Debug\WinRate.pdb
